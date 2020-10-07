@@ -9,6 +9,6 @@ console.log(datetime);
 
 console.log(sqrt(-4));
 
-let name = "Bob";
+let name = "Ace";
 let time = "today";
 console.log(`Hello ${name}, how are you ${time}?`);
