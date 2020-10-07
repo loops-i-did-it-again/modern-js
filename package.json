@@ -17,6 +17,11 @@
   },
   "homepage": "https://github.com/loops-i-did-it-again/modern-js#readme",
   "dependencies": {
+    "mathjs": "^7.5.0",
     "moment": "^2.29.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
   }
 }
