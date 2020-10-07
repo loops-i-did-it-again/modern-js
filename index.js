@@ -1,4 +1,5 @@
 var message = "Hello from JavaScript!";
 console.log(message);
 
-// document.querySelector("p").innerHTML = message;
+var datetime = moment().startOf("day").fromNow();
+console.log(datetime);
